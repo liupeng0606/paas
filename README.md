@@ -13,7 +13,7 @@
 #### 使用说明
 1. 安装运行文档在/文档和sql/01 安装运行.docx
 1. 右键运行启动类com.liu.admin.server.ServerApplication
-2. 访问http://localhost:8080，用户名和密码都是admin
+2. 访问http://106.13.108.247/boot-backend-1.0.0-SNAPSHOT/login.html
 
 
 #### 参与贡献
