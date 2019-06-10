@@ -1,5 +1,3 @@
-# boot-backend
-
 # 项目介绍
 此项目源码采用前后端分离方式，spring boot开发后端，使用shiro进行权限控制,layui、bootstrap、jquery、html为前端,基于json进行交互,接口完全采用Restful的风格，实现按钮级权限控制，很好的做了权限控制
 
