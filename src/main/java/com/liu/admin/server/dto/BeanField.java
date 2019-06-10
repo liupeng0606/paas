@@ -3,6 +3,7 @@ package com.liu.admin.server.dto;
 import java.io.Serializable;
 
 public class BeanField implements Serializable {
+	
 
 	private static final long serialVersionUID = 4279960350136806659L;
 
