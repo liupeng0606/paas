@@ -67,6 +67,21 @@ public class PermissionController {
 
 		return firstLevel;
 	}
+	/**
+	data = [2, 3, 1, 6]
+        max_item = reduce(lambda x, y: [x, y][x < y], data)
+        print(max_item)
+        # 6
+
+        new_data = list(map(lambda x: x+1, data))
+        print(new_data)
+        # [3, 4, 2, 6]
+
+        new_data = list(filter(lambda x: x % 2 == 0, data))
+        print(new_data)
+        # [2, 6]
+	**/
+	
 
 	/**
 	 * 设置子元素
