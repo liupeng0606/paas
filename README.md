@@ -21,7 +21,7 @@
 
 ### 使用说明
 1. 右键运行启动类com.liu.admin.server.ServerApplication
-2. 访问http://106.13.108.247/boot-backend/login.html
+2. 访问http://222.19.197.228/boot-backend/login.html
 
 
 
